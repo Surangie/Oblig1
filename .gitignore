@@ -1,6 +1,5 @@
-*.class
+// Testing github
 
-# Package Files #
-*.jar
-*.war
-*.ear
+public class SprettBall {
+
+}
